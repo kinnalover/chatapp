@@ -1,2 +1,24 @@
 fastapi
 uvicorn
+
+jinja2
+aiofiles
+
+#for database
+sqlalchemy
+psycopg2
+
+#for env variables
+python-dotenv
+
+#for email validation
+pydantic[email]
+passlib[bcrypt]
+
+
+#for testing
+pytest
+requests
+python-jose
+
+python-multipart
